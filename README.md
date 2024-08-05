@@ -33,11 +33,3 @@
 <p>&nbsp;</p>
 
 <p><img alt="jitunaswain" src="https://github-readme-stats.vercel.app/api?username=jitunaswain&amp;show_icons=true&amp;locale=en" /><img alt="jitunaswain" src="https://github-readme-streak-stats.herokuapp.com/?user=jitunaswain&amp;" /></p>
-
-<h3>Connect with me:</h3>
-
-<p><a href="https://twitter.com/jitunaswain" target="blank"><img alt="https://twitter.com/jitunaswain" src="https://jituna.info/images/icons/Social/twitter.svg" style="height:30px; width:40px" /></a> <a href="https://stackoverflow.com/users/11769417/jitunaswain-swain" target="blank"><img alt="https://stackoverflow.com/users/11769417/jitunaswain-swain" src="https://jituna.info/images/icons/Social/stack-overflow.svg" style="height:30px; width:40px" /></a> <a href="https://www.facebook.com/udnetalal.niaws" target="blank"><img alt="https://www.facebook.com/udnetalal.niaws" src="https://jituna.info/images/icons/Social/facebook.svg" style="height:30px; width:40px" /></a> <a href="https://www.instagram.com/jitunaswainkeshariswain/" target="blank"><img alt="https://www.instagram.com/jitunaswainkeshariswain/" src="https://jituna.info/images/icons/Social/instagram.svg" style="height:30px; width:40px" /></a> <a href="https://www.youtube.com/@jitunaswain" target="blank"><img alt="https://www.youtube.com/@jitunaswain" src="https://jituna.info/images/icons/Social/youtube.svg" style="height:30px; width:40px" /></a>&nbsp;</p>
-
-<h3>Support:</h3>
-
-<p><a href="https://www.buymeacoffee.com/jitunaswain.swain"><img alt="jitunaswain.swain" src="https://jituna.info/images/icons/buymeacoffee.svg" style="float:left; height:50px; width:210px" /></a></p>
